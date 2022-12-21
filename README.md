@@ -1,11 +1,11 @@
 <div align="center">
-  <span><img src="https://img.shields.io/badge/hi-red?style=for-the-badge"></span>
-  <span><img src="https://img.shields.io/badge/I'm-green?style=for-the-badge"></span>
+  <span><img src="https://img.shields.io/badge/a world built on fantasy-gray?style=for-the-badge"></span>
+<!--   <span><img src="https://img.shields.io/badge/I'm-green?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/a-gray?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/fullstack-orange?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/web-blue?style=for-the-badge"></span>
   <span><img src="https://img.shields.io/badge/developer-purple?style=for-the-badge"></span>
-  
+   -->
 </div>
 
 
