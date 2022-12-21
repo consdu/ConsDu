@@ -7,7 +7,7 @@
   <span><img src="https://img.shields.io/badge/developer-purple?style=for-the-badge"></span>
    -->
 </div>
-
+<br>
 <p align="center">
   <img src="https://github.com/ConsDu/ConsDu/blob/main/giphy.gif" alt="via lattea" />
 </p>
