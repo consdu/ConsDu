@@ -8,7 +8,9 @@
    -->
 </div>
 
-<p align="center>![alt text](https://github.com/ConsDu/ConsDu/blob/main/giphy.gif)</p>
+<p align="center">
+  <img src="https://github.com/ConsDu/ConsDu/blob/main/giphy.gif" alt="via lattea" />
+</p>
 
             
             
