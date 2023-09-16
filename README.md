@@ -1,12 +1,14 @@
 <h1 align="center">Ciao 👋, I'm Constantin</h1>
 <h3 align="center">A web developer based in Barcelona</h3>
 
-- 🌱 I never stop learning new things
+- 🌱 I never stop learning new things.
 
-- 💬 Let's have a conversation about **React, Redux, Next.js and CS in general**
+- 📚 I'm currently reading <span style="text-decoration: underline;">DeepWork </span>by Cal Newport, <span style="text-decoration: underline;">YouDontKnowJSYet</span> by Kyle Simpson.
 
-- ⚡ Fun fact **Why do programmers prefer dark mode?
-  Because light attracts bugs!**
+- 💬 Let's have a conversation about the future...
+
+- ⚡ Fun fact **Why do programmers prefer dark mode?**
+  Because light attracts bugs!
 
 <br>
 
