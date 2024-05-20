@@ -3,8 +3,6 @@
 
 - 🌱 I never stop learning new things.
 
-- 📚 I'm currently reading <span style="text-decoration: underline;">DeepWork </span>by Cal Newport, <span style="text-decoration: underline;">YouDontKnowJSYet</span> by Kyle Simpson,  <span style="text-decoration: underline;">Advanced React</span> by Nadia Makarevich, 
-
 - 💬 Let's have a conversation about the future...
 
 - ⚡ Fun fact **Why do programmers prefer dark mode?**
