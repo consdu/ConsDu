@@ -48,7 +48,6 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" height="30" /></a>  
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="30" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="30" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase" height="30" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" height="30" /></a>  
 </div>
 
@@ -65,8 +64,7 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Git" height="30" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="30" /></a> 
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img style="margin: 10px"  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="postman" height="30"/> </a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop" height="30" /></a>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="30" /></a> 
 </div>
 
 </td></tr></table>
