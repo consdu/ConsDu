@@ -1,19 +1,11 @@
-<h1 align="center">Ciao 👋, I'm Constantin</h1>
-<h3 align="center">A web developer based in Barcelona</h3>
-
-- 🌱 I never stop learning new things.
-
-- 💬 Let's have a conversation about the future...
-
-- ⚡ Fun fact **Why do programmers prefer dark mode?**
-  Because light attracts bugs!
+<h2 align="center">Let's have a conversation about the future...</h2>
 
 <br>
 
 <h2 align="center">Connect with me</h2>
 <br>
 <div align="center">
-<a href="https://www.linkedin.com/in/constantin-dusescu-developer/" target="_blank">
+<a href="https://www.linkedin.com/in/constantin-dusescu/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a></div>
 
 <br/>
